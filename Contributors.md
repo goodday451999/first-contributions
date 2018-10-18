@@ -6243,4 +6243,5 @@ Harish Indla
 - [rkruk](https://github.com/rkruk)
 - [fischbot](https://github.com/fischbot)
 - [Nicola Pasquali](https://github.com/NicolaPasquali)
+- [Nilotpal Pramanik](https://github.com/goodday451999)
 - [Asam Shan](https://github.com/shan5742)
